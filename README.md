@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a Junior Front-end Developer, who loves to learn new things and is rapidly improving my skills. I also like to contribute back to existing open source projects so I can practice what I have learnt.
+I am a Front-end Developer, who loves to learn new things and is rapidly improving my skills. I also like contributing to existing open-source projects to practice my learning.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyPortfolio](https://hembdrpun.vercel.app/)
-* ✉️  You can contact me at [hemthegentlemen@gmail.com](mailto:hemthegentlemen@gmail.com)
-* 🚀  I'm currently working on [20 Javascript Project](http://github.com/hempun10/wiffi_qr_Scanner)
-* 🧠  I'm learning React JS and TypeScript
+* ✉️  You can contact me at [hembdrpun10@gmail.com](mailto:hembdrpun10@gmail.com)
+* 🧠  I'm learning Node js and System Design
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
