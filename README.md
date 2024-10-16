@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 [![An image of @hempun10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hempun10)](https://holopin.io/@hempun10)
-
-Frontend Developer
 ------------------
 
 I am a Front-end Developer, who loves to learn new things and is rapidly improving my skills. I also like contributing to existing open-source projects to practice my learning.
