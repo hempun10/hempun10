@@ -6,7 +6,7 @@ I am a Front-end Developer, who loves to learn new things and is rapidly improvi
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [MyPortfolio](https://hembdrpun.vercel.app/)
 * ✉️  You can contact me at [hembdrpun10@gmail.com](mailto:hembdrpun10@gmail.com)
-* 🧠  I'm learning Creative Coding
+* 🧠  I'm learning Frontend
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
