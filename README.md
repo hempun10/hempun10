@@ -24,4 +24,7 @@ I am a Front-end Developer, who loves to learn new things and is rapidly improvi
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/hem-bahadur-pun-0621aa21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hem-pun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HimalPu94127169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/hem-bahadur-pun-0621aa21a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hem-pun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HimalPu94127169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a></p>
+
+### GitHub Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=hempun10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
