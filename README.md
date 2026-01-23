@@ -28,3 +28,4 @@ I am a Front-end Developer, who loves to learn new things and is rapidly improvi
 
 ### GitHub Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=hempun10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hempun10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
