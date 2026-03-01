@@ -1,31 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hem Bahadur Pun
-=======================================================================================================================================
+<h3 align="center">Hey! I'm Hem :3</h3>
 
-I am a Front-end Developer, who loves to learn new things and is rapidly improving my skills. I also like contributing to existing open-source projects to practice my learning.
-
-* 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [MyPortfolio](https://hembdrpun.vercel.app/)
-* ✉️  You can contact me at [hembdrpun10@gmail.com](mailto:hembdrpun10@gmail.com)
-* 🧠  I'm learning DSA
-* 🤝  I'm open to collaborating on Projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+I like <b>terminals, minimalism and open source </b>
 </p>
 
+<p align="center">
+I spend most of my time building <b>terminal tools</b> and <b>web apps</b>, along with some <b>fun side projects</b>, <br>
+currently transitioning more towards <b>backend</b> and <b>systems programming</b>
+</p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/hembdrpun/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hem-pun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HimalPu94127169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a></p>
-
-### GitHub Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=hempun10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hempun10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
+  
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=hempun10&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+</div>
